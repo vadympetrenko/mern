@@ -28,3 +28,4 @@ dist-ssr
 client/node_modules
 .vscode/
 README.md
+dist
